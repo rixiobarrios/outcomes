@@ -55,10 +55,8 @@ Homework due Monday at 7pm:
 - **JOB TRACKER** - Create your personal Job Tracker in your Outcomes Homework folder:
    - Open [this file](https://docs.google.com/spreadsheets/d/1WyPb8_72e4pn0RAWq3JF2BWC4n3XVlSiEof8ecLpPRo/edit?usp=sharing). Click file > **make a copy** > save with your name. 
 - Submit your shared Outcomes Homework folder link with proper permissions settings to [Github Issues](/homework.md)
-- **1:1** - [Sign up for your first 1:1 with Jennifer](/one-on-ones.md) - due by 8/5/19.
 - Review [Organizations that have hired GA SEI Graduates](https://docs.google.com/spreadsheets/d/1eh4skY-5_RyVPyoYTT-3uScwPxYPugOlnV0OLmJiocE/edit?usp=sharing) 
 - **TARGET LIST** - Find 3 organizations you are interested in from the list above or from your own research. Create a "Target Companies" tab in your personal job tracker and add these 3 companies to your Target list. 
 
 ## Further Reading and Resources: 
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the session recording [here](https://drive.google.com/file/d/1nHrlG2a81O3Cu2ArpDHOz1yt8WJ8-Y17/view?usp=sharing).
