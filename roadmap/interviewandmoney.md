@@ -15,7 +15,7 @@ Everyone’s brand is different and unique, it is how you present yourself that 
 ## Homework:  
 Homework due Monday at 7pm: 
 - **STAR Stories** - Draft 2 [STAR stories](https://www.themuse.com/advice/star-interview-method) & sumbit the link as a Github issue. 
-- **Read [Interview Best Practices](https://docs.google.com/document/d/1DHrR7jRQQCFH1p-wSMVfPqX_ag9OxAHNwFnWiK97onE/edit?usp=sharing)** in preparation for next week's session. 
+- **Read [Interview Best Practices](https://docs.google.com/document/d/1QZ_Tau63MVwzE5rZcqCfmxt0Fz_scl3Bw5Et9guLvmk/edit?usp=sharing)** in preparation for next week's session. 
 - **Set up Informational Interviews** - Reach out to 3 web development professionals to set up 1:1 information meetings or phone calls to learn more about their role/company. Add them to the networking tab in your job tracker.
 
 ## Further Reading and Resources:
