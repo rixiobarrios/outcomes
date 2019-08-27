@@ -13,7 +13,7 @@ This week, we will help you build a winning resume that gets noticed. You’ll l
 **Themes:** Designing Your Job Search; Developing Your Brand; Understanding the Landscape 
 
 ## Homework: 
-Homework due Monday at 7pm:
+Homework due Sunday at 7pm:
 - **Resume Draft** - Use the resume reflections and self-assessment that you noted to continue to revise your resume. Use the [Resume Checklist](https://docs.google.com/document/d/1tXVPjnKK0FkUPHJrxlEfGIVlZ4W0ponfYFjR2jViXf4/edit?usp=sharing) and [Resume Reference Guide](https://docs.google.com/document/d/1AHYLTZmmp8Xprfep3jcmNi73epYDKG2Rt_XTA6e9hLA/edit?usp=sharing) for support.
   - Our next session is peer review and feedback. Be prepared to share your updated resume and LinkedIn profile and receive feedback on both. 
 
