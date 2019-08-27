@@ -12,7 +12,7 @@ By the end of this lesson, students will be able to:
 **Themes:** Designing Your Job Search
 
 ## Homework: 
-Homework due Monday at 7pm:
+Homework due Sunday at 7pm:
 
 - **GA Profile** - Complete your [GA Profile](profiles.ga.co/profiles/new) & submit for review through the profile system.
   - Review the [GA Profile Resource Guide](https://docs.google.com/document/d/1xdfwDtk_2ds5NaPzQxxlcPa0tjvTa52WNrOAPeqTtdE/edit?usp=sharing) for Q&A and tips.  
