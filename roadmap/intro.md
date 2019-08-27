@@ -60,3 +60,4 @@ Homework due Monday at 7pm:
 
 ## Further Reading and Resources: 
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
+- View the session recording [here](https://generalassembly.zoom.us/recording/share/_PEFk6EAcSxP4vqwoMtSAZiQqczvlMV54bcPwWqrduOwIumekTziMw)
