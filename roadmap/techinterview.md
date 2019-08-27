@@ -105,7 +105,7 @@ Stay calm and composed.
 
 ## Homework: 
 Homework due Sunday at 7pm:
-- **End of Course Survey** - Complete the [End of Course Survey](https://outcomes.generalassemb.ly/courses/71517/surveys/job_search/new)and slack Jenn once it is complete.
+- **End of Course Survey** - Complete the [End of Course Survey](https://outcomes.generalassemb.ly/courses/82556/surveys/job_search/new)and slack Jenn once it is complete.
 - **Interview Prep** - Continue to prepare and practice for interviews including more technical interview prep using the resources below. 
   - Keep practicing your answers to common interview questions using the [Interview Question Generator](https://www.interviewquestiongenerator.com/en-US/).
   - Schedule a 1:1 for mock interviewing with Jenn if you'd like more practice. 
