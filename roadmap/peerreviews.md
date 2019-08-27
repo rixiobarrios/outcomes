@@ -13,7 +13,7 @@ This lesson is designed to equip students with the knowledge, skills, and tools 
 
 ## Homework 
 
-Homework due Monday at 7pm:
+Homework due Sunday at 7pm:
 - **Final Resume** - Review your peer feedback and make revisions to your materials. 
   - Once you have made changes, submit your resume and LI URL to Github Issues for Career Coach review. 
 
