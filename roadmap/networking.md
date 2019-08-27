@@ -13,7 +13,7 @@ By the end of this lesson, students will be able to:
 **Themes:** Participating in the Community; Understanding the Landscape
 
 ## Homework:
-Homework due Monday at 7pm: 
+Homework due Sunday at 7pm: 
 - **Blog Post #2** - Write blog post #2 and submit the URL as a Github issue.  
   -  Write your 2nd post using Medium or LinkedIn about one of your projects - minimum of 500 words. Make sure you add some reflection to the narrative - why you built the project, what problem you were trying to solve, what it was built with, a piece of code you are proud of, what went well, what were your constraints, challenges, and the end result. Include a link to the live project and a screenshot or two of code.
 - **Networking & Proactive Job Searching Self Reflection** - Submit your self reflection to Github Issues. 
