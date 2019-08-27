@@ -14,7 +14,7 @@ You will gain first hand knowledge of the ins and outs of LinkedIn and GA Profil
 **Themes:** Participating in the Community; Understanding the Landscape; Becoming a Thought Leader
 
 ## Homework:
-Homework due Monday at 7pm: 
+Homework due Sunday at 7pm: 
 - **Final Brand Statement** - Review brand statement feedback and submit your final draft to Github Issues. 
 - **LinkedIn** - Check out the list below to get the most out of LI!  Complete your updates and submit your LI URL to Github Issues.
   - Update your LinkedIn profile according to [LinkedIn Profile Best Practices](https://docs.google.com/document/d/1GJfhP4FLKTi3n7DosXSNhvJYpjazCZgzuTCGLuvuwUs/edit) and the [LinkedIn Profile Checklist](https://docs.google.com/document/d/1ElgfSRP_XoW8VHmrEsfVtHXk7w6w6ga-BmcoDy8CWXs/edit).
