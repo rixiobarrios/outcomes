@@ -6,7 +6,7 @@ Congrats, you graduated from GA’s Software Engineering Immersive Program! We a
 We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes. You will review these materials in a final 1:1 with your coach. 
 
 ## Outcomes Bootcamp
-There will be a mandatory Outcomes Bootcamp on Friday, September 27 from 12-2pm EST/11am-1pm CST/10am-12pm MST/9-11am PST. We'll discuss how to tackle life after GA (goal setting, time management, job search review, etc.).
+There will be a mandatory Outcomes Bootcamp post course - date/time TBD. We'll discuss how to tackle life after GA (goal setting, time management, job search review, etc.).
 
 ## Monday Check Ins
 Each Monday, you'll receive an email with the subject line: #MotivationMonday - DATE. This email will contain helpful articles, recent job posting, words of wisdom and a reminder link to complete the Monday check in survey. Every job seeker is expected to complete the check in survey each week.
