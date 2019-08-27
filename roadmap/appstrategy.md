@@ -16,7 +16,7 @@ We will determine best practices for composing a follow up message as well as ho
 **Outcomes Themes:** Understanding the Landscape; Designing Your Job Search
 
 ## Homework:  
-Homework due Monday at 7pm. 
+Homework due Sunday at 7pm. 
 - **Cover Letter** - Write a cover letter tailored to a specific job posting. Submit the cover letter and link to the job posting as a Github issue.
 
 ## Further Reading and Resources:
