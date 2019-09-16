@@ -1,5 +1,5 @@
 
-# Publicly Exposed: LinkedIn, GA Profile, Portfolios & Thought Leadership
+# Online Presence: LinkedIn, GA Profile, Portfolios & Thought Leadership
 
 ## Framing:  
 LinkedIn? GA Profile? Portfolio? Blogging? Oh my! The focus of this session is to help you develop a professional LinkedIn page and GA Profile that reflects their newly acquired skills, professional skills and aligns with your personal brand. We'll also discuss best practices for using both the LinkedIn and GA Profiles platforms. We'll also review the role portfolios (aka personal websites) and thought leadership will play in the job search. 
