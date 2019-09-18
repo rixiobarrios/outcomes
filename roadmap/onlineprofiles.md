@@ -56,4 +56,5 @@ Homework due Sunday at 7pm:
 
 ## Further Reading and Resources: 
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
+- View the session presentation deck [here](https://generalassembly.zoom.us/recording/share/ILwA0OYljI-ihAH8fTyyt1teNa_2j9hsMpVvbcUsqQ2wIumekTziMw)
 - [Portfolio Guidelines for Final Class Assignment - due before the end of the course]
