@@ -11,7 +11,7 @@
 - [session 1: Intro To Outcomes & Alumni Panel](/roadmap/intro.md)
 - [session 2: Personal Brand](/roadmap/personalbrand.md)
 - [session 3: Brand Statement](/roadmap/brandstatement.md)
-- [session 4: Publicly Exposed: LinkedIn, GA Profile, Portfolios & Thought Leadership](/roadmap/onlineprofiles.md)
+- [session 4: Online Presence: LinkedIn, GA Profile, Portfolios & Thought Leadership](/roadmap/onlineprofiles.md)
 - [session 5: Resume Best Practices](/roadmap/resume.md)
 - [session 6: Getting Feedback: Peer Reviews](/roadmap/peerreviews.md)
 - [session 7: Networking & Leading a Proactive Job Search](/roadmap/networking.md)
