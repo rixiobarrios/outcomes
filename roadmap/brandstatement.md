@@ -20,7 +20,7 @@ We know this is tough! Remember that this is just a starting point.
 ## Here's the step by step process to help you write your draft. 
 
 **Step 1: Identify your top 5 themes** 
-  - Look at the notes from the branding workshop, your personality test results, and your professional brand story. What are the recurring themes? What are the ones that you have done consistently and effectively throughout your career and life and that you can defend with examples? (Examples: Leader, team-player, kind, generous, influencer, visionary, calm). 
+  - Look at the notes from the branding workshop and your professional brand story. What are the recurring themes? What are the ones that you have done consistently and effectively throughout your career and life and that you can defend with examples? (Examples: Leader, team-player, kind, generous, influencer, visionary, calm). 
   
 **Step 2: What's the benefit to these themes?** 
 - For example: The benefit of being a visionary could be that you inspire a team to move forward. The benefit of being a problem solver is that you don't stop until every hurdle is overcome. List as many benefits as you can think for each of your themes. 
