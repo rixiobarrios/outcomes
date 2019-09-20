@@ -17,7 +17,7 @@ You will gain first hand knowledge of the ins and outs of LinkedIn and GA Profil
 Homework due Sunday at 7pm: 
 - **Final Brand Statement** - Review brand statement feedback and submit your final draft to Github Issues. 
 - **LinkedIn** - Check out the list below to get the most out of LI!  Complete your updates and submit your LI URL to Github Issues.
-  - Update your LinkedIn profile according to [LinkedIn Profile Best Practices](https://docs.google.com/document/d/1GJfhP4FLKTi3n7DosXSNhvJYpjazCZgzuTCGLuvuwUs/edit) and the [LinkedIn Profile Checklist](https://docs.google.com/document/d/1ElgfSRP_XoW8VHmrEsfVtHXk7w6w6ga-BmcoDy8CWXs/edit).
+  - Update your LinkedIn profile according to [LinkedIn Profile Best Practices](https://docs.google.com/document/d/1LGbyLrOcf6aJka8Ef8etJQfDuWmkIJOj2_GF-EMYRF0/edit?usp=sharing) and the [LinkedIn Profile Checklist](https://docs.google.com/document/d/1OM6zH6H7weK_Uej5RkX7ty_45JSjBHaE76WHXffw0YA/edit?usp=sharing).
   - Follow two companies on LI that you would like to work for and add them to your Target Company List.
 - **Sample Dev Portfolios** - Review existing developer websites and identify 2 -4 that are good examples of how you want your site to look. Submit links to these Sample Sites to Github Issues.
 - **Blog Post #1** - Submit your blog post URL via Github Issues.
