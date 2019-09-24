@@ -18,7 +18,7 @@ Homework due Sunday at 7pm:
 
 ## Further Reading and Resources:
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the session recording [here](https://generalassembly.zoom.us/recording/share/HOu0LzZFwkU_T6cf2Rzyi57_U9MQjmkGApk8AtrTKWOwIumekTziMw?startTime=1562703682000).
+- View the session recording [here](https://www.youtube.com/watch?v=oy7b9TwvKpc&feature=youtu.be).
 - [Crafting an Elevator Pitch](https://www.mindtools.com/pages/article/elevator-pitch.htm)
 - [The Muse: What You Should Be Doing for Your Personal Brand Every Day, Week, and Month](https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month?utm_source=Sailthru&utm_medium=email&utm_campaign=What%20You%20Should%20Be%20Doing%20for%20Your%20Personal%20Brand%20Every%20Day%2C%20Week%2C%20and%20Month&utm_term=Daily%20Email%20List)
 - [99U: How To Write an "About Me" Page That Gets You Hired](http://99u.com/articles/51669/how-to-write-about-me-section?utm_source=Sailthru&utm_medium=email&utm_campaign=%2A%20New%20BOTW%20Template%209/13/15&utm_term=Sunday%20-%20Best%20of%20The%20Web)
