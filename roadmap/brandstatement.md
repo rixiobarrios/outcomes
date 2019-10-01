@@ -42,9 +42,7 @@ We know this is tough! Remember that this is just a starting point.
 ## Homework: 
 
 Homework due Sunday at 7pm: 
-- **Brand Statement** - Brand statement draft submitted as Google doc via Github Issues.  
-- **Professional Value Proposition** - Create your PVP and submit as Google doc via Github Issues. 
-  - Your PVP summarizes your unique value. Elevator pitches and value propositions are sometimes used interchangeably, but they are a bit different. Elevator pitches are a concise version of your professional story that help introduce you to a new contact in a concise and engaging way. Your PVP is focused on the value that you bring to a team or organization. Refer to the example and tips from [this article](https://hbr.org/2011/11/a-value-proposition-for-your-c). Submit your draft and seek feedback from classmates, colleagues & other professionals. 
+- **Brand Statement Draft** - Brand statement draft submitted as Google doc via Github Issues.  
 
 ## Further Reading/Resources:
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
