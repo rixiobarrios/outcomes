@@ -14,7 +14,7 @@ By the end of this lesson, students will be able to:
 
 ## Homework:
 Homework due Sunday at 7pm: 
-- **Blog Post #2** - Write blog post #1 and submit the URL as a Github issue.  
+- **Blog Post #2** - Write blog post #2 and submit the URL as a Github issue.  
   -  Write a post using Medium or LinkedIn about one of your projects - minimum of 500 words. Start with a short introduction with context for your reader - career change, GA student, new to dev, etc... Make sure you add some reflection to the narrative - why you built the project, what problem you were trying to solve, what it was built with, a piece of code you are proud of, what went well, what were your constraints, challenges, and the end result. Include a link to the live project and a screenshot or two of code.
 - **Networking & Proactive Job Searching Self Reflection** - Submit your self reflection to Github Issues. 
    - Open and make a **copy** of the [Networking and Proactive Job Search Self Reflection](https://docs.google.com/document/d/1HfBvj2iWThuNyKb-LCIiL41W_cba6zv5l60CLjQmVaA/edit?usp=sharing)
