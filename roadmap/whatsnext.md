@@ -15,7 +15,7 @@ By the end of the lesson, students will be able to:
 ## Final Material Expectations:
 We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at this point, but understand if you are still working on adding your final project and portfolio. Remember that your portfolio must be complete within one week of graduation to receive support from Outcomes. 
 
-**Due Monday 11/18/19 at 12pm local:**
+**Due Monday 11/25/19 at 12pm local:**
 
 **Github Issue Title: "Firstname Last Name: FINAL OUTCOMES Materials**
 
