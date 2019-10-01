@@ -14,14 +14,13 @@ By the end of this lesson, students will be able to:
 
 ## Homework:
 Homework due Sunday at 7pm: 
-- **Blog Post #2** - Write blog post #2 and submit the URL as a Github issue.  
-  -  Write your 2nd post using Medium or LinkedIn about one of your projects - minimum of 500 words. Make sure you add some reflection to the narrative - why you built the project, what problem you were trying to solve, what it was built with, a piece of code you are proud of, what went well, what were your constraints, challenges, and the end result. Include a link to the live project and a screenshot or two of code.
+- **Blog Post #2** - Write blog post #1 and submit the URL as a Github issue.  
+  -  Write a post using Medium or LinkedIn about one of your projects - minimum of 500 words. Start with a short introduction with context for your reader - career change, GA student, new to dev, etc... Make sure you add some reflection to the narrative - why you built the project, what problem you were trying to solve, what it was built with, a piece of code you are proud of, what went well, what were your constraints, challenges, and the end result. Include a link to the live project and a screenshot or two of code.
 - **Networking & Proactive Job Searching Self Reflection** - Submit your self reflection to Github Issues. 
    - Open and make a **copy** of the [Networking and Proactive Job Search Self Reflection](https://docs.google.com/document/d/1HfBvj2iWThuNyKb-LCIiL41W_cba6zv5l60CLjQmVaA/edit?usp=sharing)
-   - Complete the Self Reflection & submit.
-- **Networking & Proactive Job Searching Road Map** - Review the [Networking and Proactive Job Search Road Map](https://docs.google.com/document/d/1rb7p4BKTR0_m7w4_u8BQBmtJjpTFUWH8OrL7H-mXf7Q/edit?usp=sharing)
-  - Create a networking tab in your job tracker. Connect with 3 people at companies that you would like to work for and record them in your tracker. Review [LinkedIn Networking Best Practices](https://docs.google.com/document/d/1yIjOzckLUCwpvX_q3BHx2O3Qzoc5SP44i21HiX34e7o/edit?usp=sharing) for follow up tips.
-- Review [Networking and Proactive Job Search FAQs](https://docs.google.com/document/d/1WmgF4zgBVBqmky0d9LACgUFkR0M0CU5QxndSm5xDjdM/edit?usp=sharing) and [In Person Networking FAQs](https://docs.google.com/document/d/1-1tlggf56crruFTk6tk-_0DFFsEqMCyvdCvZBlC9gXY/edit?usp=sharing). 
+   - Complete the Self Reflection & submit in Github.
+- Create a networking tab in your job tracker. Send customized connection requests to 3 people at companies that you would like to work for and record them in your tracker. Review [LinkedIn Networking Best Practices](https://docs.google.com/document/d/1yIjOzckLUCwpvX_q3BHx2O3Qzoc5SP44i21HiX34e7o/edit?usp=sharing) for follow up tips.
+- Review [Networking and Proactive Job Search Road Map](https://docs.google.com/document/d/1rb7p4BKTR0_m7w4_u8BQBmtJjpTFUWH8OrL7H-mXf7Q/edit?usp=sharing), [Networking and Proactive Job Search FAQs](https://docs.google.com/document/d/1WmgF4zgBVBqmky0d9LACgUFkR0M0CU5QxndSm5xDjdM/edit?usp=sharing) and [In Person Networking FAQs](https://docs.google.com/document/d/1-1tlggf56crruFTk6tk-_0DFFsEqMCyvdCvZBlC9gXY/edit?usp=sharing). 
 
 ## Further Reading and Resources: 
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
