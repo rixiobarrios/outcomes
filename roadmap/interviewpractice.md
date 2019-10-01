@@ -13,14 +13,9 @@ By the end of this lesson, students will be able to:
 
 ## Homework: 
 Homework due Sunday at 7pm:
-
-- **GA Profile** - Complete your [GA Profile](profiles.ga.co/profiles/new) & submit for review through the profile system.
-  - Review the [GA Profile Resource Guide](https://docs.google.com/document/d/1xdfwDtk_2ds5NaPzQxxlcPa0tjvTa52WNrOAPeqTtdE/edit?usp=sharing) for Q&A and tips.  
+  
 - **Blog Post #3** - Write your third post using Medium and/or LinkedIn. For this post, focus on reflecting on your journey through GA. What did you learn? Now that the course is ending, what are you looking forward to doing next? Submit the link to the post via Github.
-- **STAR Stories** - Draft 2 more STAR stories focusing on your new technical skills & sumbit the link as a Github issue.
-- **Catch Up** - Be polishing any remaining job seeker toolkit items that need editing.
-- **Start APPLYING!** - Start applying for jobs and track them in your personal job tracker! Aim for at least 3 - 4 applications before graduation. Reach out for any help you need customizing your application materials.
-- **Interview Prep** - Continue to prepare and practice for interviews. 
+- Interview Prep - Continue to prepare and practice for interviews. 
   - Practice your answers to common interview questions using the [Interview Question Generator](https://www.interviewquestiongenerator.com/en-US/).
   - Review the [Interview Checklist](https://docs.google.com/document/d/1pDrkEL9J9dylcXnnElkDGopokjnbby2gO_k-tdO686A/edit) & practice with classmates and friends.
 
