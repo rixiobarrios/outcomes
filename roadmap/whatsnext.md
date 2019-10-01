@@ -25,8 +25,5 @@ We expect your Resume, Cover Letter, LinkedIn, and GA Profile to be final at thi
 - Final LinkedIn: link
 - Final GA Profile: link
 - Link to your Portfolio: link
-- What types of roles/organizations are you interested in: list
-- Top 3 Networking events you have attended: list
-- What are your top 3-5 technical skills: list
-- What locations beyond your local market are you job searching in, if you plan to search elsewhere? list
-- Anything you want your coach to know about your situation or job search in general? 
+- [End of Course Survey](https://outcomes.generalassemb.ly/courses/71517/surveys/job_search/new)
+- Final Reflection including: Your job search focus - specify types of roles, organizations, projects, products, industries are you interested in; your top 3-5 technical skills; locations beyond your local market are you job searching in; anything else you want your coach to know about your job search
