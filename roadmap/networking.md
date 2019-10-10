@@ -24,7 +24,7 @@ Homework due Sunday at 7pm:
 
 ## Further Reading and Resources: 
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the recording [here](https://generalassembly.zoom.us/recording/play/MmT2tehi5FH-Hbgw_fdZM2GszS_L4Xii2T7TZROTHBfyS-dXAboBEBDyg7R7W4Ef?continueMode=true)
+- View the recording [here](https://generalassembly.zoom.us/recording/play/GhkljM2bPwfrhHnWyBmVSDZaL97GKRMT_-ghUBqVhKsxouGjg0jbpU82iof8VPCp?continueMode=true)
 - [How Drinking Lattes Landed This Millennial 4 Jobs](http://www.sparkvisionnow.com/how-drinking-lattes-landed-this-millennial-4-jobs/)
 - [The Email Template That'll Get You a Meeting With Anyone You Ask](https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask)
 - [Always Buy The Coffee](https://austinstartups.com/always-buy-the-coffee-d1af1790e747)
