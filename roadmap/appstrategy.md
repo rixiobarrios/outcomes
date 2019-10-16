@@ -21,6 +21,7 @@ Homework due Sunday at 7pm.
 
 ## Further Reading and Resources:
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
+- View the session recording [here](https://generalassembly.zoom.us/recording/play/LyF84RqUc4ZGe2pztbvCm5Ew-LVqRLnU_W2FnzUyPQccJRZ-yNdjUQM9NEuOwCeN?continueMode=true)
 - View two SEI graduate example cover letters [here](https://docs.google.com/document/d/1w9GLOkkLW_W7zVTgfM-qWJHYhdZf1i9KA2foJe5Do8I/edit?usp=sharing)
 - [I've Read Over 300+ Cover Letters and This Is How I Decide if It's Good or Bad Within 3 Minutes](https://www.themuse.com/advice/ive-read-over-300-cover-letters-and-this-is-how-i-decide-if-its-good-or-bad-within-3-minutes?utm_medium=email&utm_campaign=botw_10022016&utm_source=blueshift&utm_content=botw_sunday&bsft_eid=989f3f70-6d28-4c5b-9c77-226be49c6d96&bsft_clkid=b9d1dd79-3c34-4507-980b-f3e70aef7c5b&bsft_uid=6a7435ca-a930-4f53-a4b0-3131b83243a7&bsft_mid=98515e7d-7a63-4d5e-aed7-5c26805ec564)
 - [3 Quick Tricks to Make Writing a "Conversational" Cover Letter Easy](https://www.themuse.com/advice/3-quick-tricks-to-make-writing-a-conversational-cover-letter-easy/?utm_campaign=daily_20161116&utm_source=blueshift&utm_content=daily_wednesday_fullarticle&bsft_eid=5d8f1f10-dc6a-45b9-a5c4-a72851b3c1e2&bsft_clkid=4faca338-9691-4737-9325-a22e4cdae1b6&bsft_uid=6a7435ca-a930-4f53-a4b0-3131b83243a7&bsft_mid=daf766d1-a25d-4a40-b371-8a26709106ae)
