@@ -19,6 +19,7 @@ Homework due Sunday at 7pm:
 
 ## Further Reading and Resources:
 - View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20). 
+- View the session recording [here](https://generalassembly.zoom.us/recording/play/lE4G3sOZPDpuZXfaxUHAyJyfIxedwd7tblrsNKhHGC0pQQSthVmJ7c2bN85dGHsy?continueMode=true)
 - [The Muse: The Ultimate Guide to Researching a Company Pre-Interview](https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview)
 - [The Muse: Your 4 Step Plan to Answering "Tell Me About Yourself" Perfectly](https://www.themuse.com/advice/your-4step-plan-to-answering-tell-me-about-yourself-perfectly?utm_source=Sailthru&utm_medium=email&utm_campaign=Your%204-Step%20Plan%20to%20Answering%20%E2%80%9CTell%20Me%20About%20Yourself%E2%80%9D%20Perfectly&utm_term=Daily%20Email%20List)
 - [The Muse: Pleasantly Persistent: 5 Rules for Effectively Following Up](https://www.themuse.com/advice/pleasantly-persistent-5-rules-for-effectively-following-up)
