@@ -2,11 +2,11 @@
 Congrats, you graduated from GA’s Software Engineering Immersive Program! We are so proud of all of your hard work and you should be too. We know that you may have a few additions to your resume and portfolio, or may want some additional practice to work on your pitch - we got you covered!  You will work closely with your coach to discover how to best sell your talents to employers and set yourself up for success in your job search. Here are some things to be aware of going forward. 
 
 ## Final Outcomes Toolkit Materials 
-**You MUST have all of your job search materials 100% done by the Monday following graduation - 11/18/19.** 
-We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes. You will review these materials in a final 1:1 with your coach. 
+**You MUST have all of your job search materials 100% done by the Monday following graduation - 11/25/19.** 
+We expect your Resume, Cover Letter, LinkedIn, GA Profile, and Portfolio to be final at this point. By this we mean you would be ok if an employer saw any of these materials. Remember that these materials are required to receive ongoing support from Outcomes.
 
 ## Outcomes Bootcamp
-There will be a mandatory Outcomes Bootcamp post course on **Friday, 11/21 from 1 - 3 EST**. We'll discuss how to tackle life after GA (goal setting, time management, job search review, etc.).
+There will be a mandatory Outcomes Bootcamp post course on **Monday, 12/2 from 1 - 3 EST** for anyone that will be participating in the Outcomes program. We'll discuss how to tackle life after GA (goal setting, time management, job search review, etc.).
 
 ## Monday Check Ins
 Each Monday, you'll receive an email with the subject line: #MotivationMonday - DATE. This email will contain helpful articles, recent job posting, words of wisdom and a reminder link to complete the Monday check in survey. Every job seeker is expected to complete the check in survey each week.
