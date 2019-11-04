@@ -109,7 +109,7 @@ Homework due Sunday at 7pm:
   - Review the [GA Profile Resource Guide](https://docs.google.com/document/d/1xdfwDtk_2ds5NaPzQxxlcPa0tjvTa52WNrOAPeqTtdE/edit?usp=sharing) for Q&A and tips. 
 - Interview Prep - Continue to prepare and practice for interviews including more technical interview prep using the resources below. 
   - Keep practicing your answers to common interview questions using the [Interview Question Generator](https://www.interviewquestiongenerator.com/en-US/).
-- Catch Up - Be working on any remaining job seeker toolkit items that have not be completed. 
+- Catch Up - Be working on any remaining job seeker toolkit items that have not be completed. Late work will no longer be accepted, but you will need each piece in your toolkit for your job search. 
 - Start Applying - Start applying for jobs and track them in your personal job tracker! Aim for at least 3 - 4 applications before graduation. Reach out for any help you need customizing your application materials. 
 
 ## Further Reading and Resources: 
