@@ -105,7 +105,7 @@ Stay calm and composed.
 
 ## Homework: 
 Homework due Sunday at 7pm:
-- **GA Profile** - Complete your [GA Profile](profiles.ga.co/profiles/new) & submit for review through the profile system.
+- **GA Profile** - Complete your [GA Profile](https://profiles.generalassemb.ly/profiles/new) & submit for review through the profile system.
   - Review the [GA Profile Resource Guide](https://docs.google.com/document/d/1xdfwDtk_2ds5NaPzQxxlcPa0tjvTa52WNrOAPeqTtdE/edit?usp=sharing) for Q&A and tips. 
 - Interview Prep - Continue to prepare and practice for interviews including more technical interview prep using the resources below. 
   - Keep practicing your answers to common interview questions using the [Interview Question Generator](https://www.interviewquestiongenerator.com/en-US/).
