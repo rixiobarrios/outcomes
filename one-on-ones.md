@@ -1,6 +1,6 @@
 # Meeting One-on-One with Your Outcomes Coach
 
-I love meeting and talking with you, please don't be shy! 
+I LOVE meeting and talking with you, please don't be shy! 
 
 1:1s are a safe space to talk about anything job search or career related. 1:1s might include:
 - Your previous work history 
@@ -15,4 +15,4 @@ I love meeting and talking with you, please don't be shy!
 
 Also, please do not sign up for times during your class/lab time as you will not be excused to leave class to meet with me. Find times during your lunch hour or after class. If there are not slots available and you would really like to meet, please message me directly and we'll work something out.  
 
-[Sign up for a slot here](https://calendly.com/jennifer-youngblood)
+[Sign up for a slot here](https://calendly.com/coachruby)
