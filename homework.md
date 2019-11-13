@@ -42,7 +42,7 @@ We will use Github to submit all homework:
 
 ![SubmitHW3](https://user-images.githubusercontent.com/18074591/31462598-50a1e946-ae9b-11e7-81d6-ae02012ea333.png)
 
-5. Jennifer will give you feedback in the timeline listed on the assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out! 
+5. Ruby will give you feedback in the timeline listed on the assignment and will close your issue when you have received feedback. Keep an eye out in your email and github alerts. If you have any questions, feel free to reach out! 
 
 6. Remember, Outcomes homework is required in order to graduate and be successful in your job search!
 
