@@ -18,4 +18,5 @@ Homework due Sunday at 7pm:
   - Once you have made changes, submit your resume and LI URL to Github Issues for Career Coach review. 
 
 ## Further Reading and Resources:
-- View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
+- View the session presentation deck [pending].
+- View the session recording [pending].
