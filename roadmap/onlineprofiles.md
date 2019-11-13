@@ -55,6 +55,6 @@ Homework due Sunday at 7pm:
 - [Dana Palazzo](https://profiles.generalassemb.ly/dana-palazzo)
 
 ## Further Reading and Resources: 
-- View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the session presentation deck [here](https://generalassembly.zoom.us/recording/share/ILwA0OYljI-ihAH8fTyyt1teNa_2j9hsMpVvbcUsqQ2wIumekTziMw)
+- View the session presentation deck [pending].
+- View the session [pending].
 - [Portfolio Guidelines for Final Class Assignment - due before the end of the course]
