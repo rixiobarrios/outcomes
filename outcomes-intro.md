@@ -4,7 +4,7 @@ Here at GA we pride ourselves on innovation and approaching things in a unique a
 
 ## Meet Your Outcomes Career Coach!
 
-### Jenn Youngblood
-- Based in Seattle
-- [jennifer.youngblood@ga.co](mailto:jennifer.youngblood@ga.co)
-- [Meet Jenn!](http://www.linkedin.com/in/youngbloodjenn/)
+### Ruby Sycamore-Smith
+- Based in Florida
+- [ruby@ga.co](mailto:ruby@ga.co)
+- [Meet Ruby!](https://www.linkedin.com/in/rubysycamoresmith/)
