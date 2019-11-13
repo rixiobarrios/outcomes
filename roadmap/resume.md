@@ -18,8 +18,8 @@ Homework due Sunday at 7pm:
   - Our next session is peer review and feedback. Be prepared to share your updated resume and LinkedIn profile and receive feedback on both! 
 
 ## Further Reading and Resources:
-- View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the session recording [here](https://generalassembly.zoom.us/recording/play/ahtWGX9BnnzdkKJymfQ5AU-clWZbjQVCB8HEjptOPL7XU1wH20qqB0-JP9wegcXR?continueMode=true).
+- View the session presentation deck [pending].
+- View the session recording [pending].
 - Here are some example [web development resumes](https://drive.google.com/drive/folders/1vrhMq4STJzv7wVfyILdmGyu2hh18kl-A?usp=sharing).
 - [185 Powerful Verbs That Will Make Your Resume Awesome](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
 - [The Muse: An Editor’s Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
