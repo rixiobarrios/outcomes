@@ -20,7 +20,7 @@ Homework due Sunday at 7pm:
   - Review the [Interview Checklist](https://docs.google.com/document/d/1pDrkEL9J9dylcXnnElkDGopokjnbby2gO_k-tdO686A/edit) & practice with classmates and friends.
 
 ## Further Reading and Resources:
-- View the session recording [here](https://generalassembly.zoom.us/recording/share/r7XpTworGjc50Z1EE4AyFlT6TPIkftaelwErdelFKEewIumekTziMw)
+- View the session recording [pending]
 - [The Power of the Pose](https://blog.ted.com/10-examples-of-how-power-posing-can-work-to-boost-your-confidence/)
 - [How to Answer "Tell Me About a Time When..." Interview Questions](https://www.themuse.com/advice/how-to-answer-tell-me-about-a-time-when-interview-questions)
 - [30 Behavioral Interview Questions You Should Be Ready to Answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
