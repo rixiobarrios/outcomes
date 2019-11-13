@@ -22,9 +22,11 @@ Homework due Sunday at 7pm:
 - Create a networking tab in your job tracker. Send customized connection requests to 3 people at companies that you would like to work for and record them in your tracker. Review [LinkedIn Networking Best Practices](https://docs.google.com/document/d/1yIjOzckLUCwpvX_q3BHx2O3Qzoc5SP44i21HiX34e7o/edit?usp=sharing) for follow up tips.
 - Review [Networking and Proactive Job Search Road Map](https://docs.google.com/document/d/1rb7p4BKTR0_m7w4_u8BQBmtJjpTFUWH8OrL7H-mXf7Q/edit?usp=sharing), [Networking and Proactive Job Search FAQs](https://docs.google.com/document/d/1WmgF4zgBVBqmky0d9LACgUFkR0M0CU5QxndSm5xDjdM/edit?usp=sharing) and [In Person Networking FAQs](https://docs.google.com/document/d/1-1tlggf56crruFTk6tk-_0DFFsEqMCyvdCvZBlC9gXY/edit?usp=sharing). 
 
+## Slides and Recording 
+- View the session presentation deck [pending].
+- View the recording [pending]
+
 ## Further Reading and Resources: 
-- View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20).
-- View the recording [here](https://generalassembly.zoom.us/recording/play/GhkljM2bPwfrhHnWyBmVSDZaL97GKRMT_-ghUBqVhKsxouGjg0jbpU82iof8VPCp?continueMode=true)
 - [How Drinking Lattes Landed This Millennial 4 Jobs](http://www.sparkvisionnow.com/how-drinking-lattes-landed-this-millennial-4-jobs/)
 - [The Email Template That'll Get You a Meeting With Anyone You Ask](https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask)
 - [Always Buy The Coffee](https://austinstartups.com/always-buy-the-coffee-d1af1790e747)
