@@ -113,7 +113,7 @@ Homework due Sunday at 7pm:
 - Start Applying - Start applying for jobs and track them in your personal job tracker! Aim for at least 3 - 4 applications before graduation. Reach out for any help you need customizing your application materials. 
 
 ## Further Reading and Resources: 
-- View the session presentation deck [here](https://drive.google.com/drive/folders/1iT9wjJY75YZMcm2amhshLKquzFYpQS20)
+- View the session presentation deck [pending]
 - [Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time/?trk=hp-feed-article-title-like)
 - [Most Common Technical Interview Question for FrontEnd Developers](https://www.frontendjournal.com/most-common-technical-interview-question-for-frontend-developers/)
 - [The Tech Interview Cheatsheet](https://hackernoon.com/the-tech-interview-cheatsheet-8e28d94f5f04)
