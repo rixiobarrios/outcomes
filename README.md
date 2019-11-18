@@ -8,7 +8,7 @@
 #### [Market Info Sheets](/infosheets.md)
 ## Curriculum 
 #### Outcomes Roadmap
-- [Session 1: Intro To Outcomes & Alumni Panel](/roadmap/intro.md)
+- [Session 1: Intro To Outcomes](/roadmap/intro.md)
 - [Session 2: Personal Brand](/roadmap/personalbrand.md)
 - [Session 3: Brand Statement](/roadmap/brandstatement.md)
 - [Session 4: Online Presence: LinkedIn, GA Profile, Portfolios & Thought Leadership](/roadmap/onlineprofiles.md)
