@@ -1,4 +1,4 @@
-# Intro To Outcomes + Alumni Panel
+# Intro To Outcomes 
 
 ## Framing:
 What is Outcomes? What is a Career Coach? How are you going to land a job in a competitive market utilizing the skills you gain through the SEIR program? What types of jobs exist in the field? How can you get involved and be competitive in your new industry? 
