@@ -16,8 +16,7 @@
 
 # Submit Your Outcomes HW 
 
-Be sure to submit your Outcomes Homework each week, utilizing the naming convention: **Firstname Lastname: Assignment Title** I will reject homework without this information and you will need to resubmit.
-
+Be sure to submit your Outcomes Homework via your Personal Outcomes Tracker 
 
 
 
